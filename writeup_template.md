@@ -47,4 +47,4 @@ When modified draw_lines() are not used, the result seems good, but when using t
 
 ### 3. Suggest possible improvements to pipeline
 
-Great improvements coulde
+Great improvements coulde be made on the draw_lins() function,

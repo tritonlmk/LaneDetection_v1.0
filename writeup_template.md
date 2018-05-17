@@ -1,3 +1,5 @@
+
+
 # **Finding Lane Lines on the Road** 
 
 
@@ -32,7 +34,7 @@ the method used in the modified draw_lines() are simple, I will use a more preci
 I will write a function which will output two groups of number(given one group of number), making differences inside each group small and differences between two groups as big as possible. Also, noise(incorrect lanelines representation and "horizental" line will be droped automatically)
 
 
-![alt text][image1]
+I do not use the helper functions. I use the functions provided in the course, mostly
 
 
 ### 2. Identify potential shortcomings with current pipeline
